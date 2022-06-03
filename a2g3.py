@@ -1,1 +1,3 @@
-print("hola")
+import bienv as b
+
+b.bienv()
